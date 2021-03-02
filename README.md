@@ -1,1 +1,1 @@
-This is a google homepage, I created this page with HTML and CSS
+This is a google homepage, I created this page using HTML and CSS.
